@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/fex/Documents/Projects/physics-engine/builddir",
+    "command": "c++  -Irun@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -MD -MQ 'run@exe/main.cpp.o' -MF 'run@exe/main.cpp.o.d' -o 'run@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp"
+  }
+]
